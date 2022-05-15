@@ -1,0 +1,31 @@
+﻿@page
+@model iMovie.AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About iMovie</h1>
+
+<blockquote class="blockquote text-left">
+    @{
+        var quote = "The future depends on what you do today. - Mahatma Gandhi";
+    }
+    <p class="mb-0">@quote</p>
+    <footer class="blockquote-footer">Mahatma Gandhi <cite title="Source Title">(The Internet)</cite></footer>
+</blockquote>
+
+<blockquote class="blockquote text-left">
+    @{
+        quote = "Hate cannot drive out hate, only love can do that.";
+    }
+    <p class="mb-0">@quote</p>
+    <footer class="blockquote-footer">Martin Luther King, Jr. <cite title="Source Title">(The Internet)</cite></footer>
+</blockquote>
+
+<blockquote class="blockquote text-left">
+    @{
+        quote = "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.";
+    }
+    <p class="mb-0">@quote</p>
+    <footer class="blockquote-footer">Weiberg's Second Law <cite title="Source Title">(The Internet)</cite></footer>
+</blockquote>

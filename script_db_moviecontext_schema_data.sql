@@ -1,0 +1,149 @@
+USE [master]
+GO
+/****** Object:  Database [MovieContext]    Script Date: 2020-09-01 16:24:46 ******/
+CREATE DATABASE [MovieContext]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'iMovieContext-1740ac71-e116-4d74-b1e9-dec79111e007', FILENAME = N'C:\Users\MigitA\iMovieContext-1740ac71-e116-4d74-b1e9-dec79111e007.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'iMovieContext-1740ac71-e116-4d74-b1e9-dec79111e007_log', FILENAME = N'C:\Users\MigitA\iMovieContext-1740ac71-e116-4d74-b1e9-dec79111e007_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+GO
+ALTER DATABASE [MovieContext] SET COMPATIBILITY_LEVEL = 130
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [MovieContext].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [MovieContext] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [MovieContext] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [MovieContext] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [MovieContext] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [MovieContext] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [MovieContext] SET AUTO_CLOSE ON 
+GO
+ALTER DATABASE [MovieContext] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [MovieContext] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [MovieContext] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [MovieContext] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [MovieContext] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [MovieContext] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [MovieContext] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [MovieContext] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [MovieContext] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [MovieContext] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [MovieContext] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [MovieContext] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [MovieContext] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [MovieContext] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [MovieContext] SET READ_COMMITTED_SNAPSHOT ON 
+GO
+ALTER DATABASE [MovieContext] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [MovieContext] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [MovieContext] SET  MULTI_USER 
+GO
+ALTER DATABASE [MovieContext] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [MovieContext] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [MovieContext] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [MovieContext] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [MovieContext] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [MovieContext] SET QUERY_STORE = OFF
+GO
+USE [MovieContext]
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET LEGACY_CARDINALITY_ESTIMATION = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET MAXDOP = 0;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET PARAMETER_SNIFFING = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET QUERY_OPTIMIZER_HOTFIXES = OFF;
+GO
+USE [MovieContext]
+GO
+/****** Object:  Table [dbo].[__EFMigrationsHistory]    Script Date: 2020-09-01 16:24:47 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[__EFMigrationsHistory](
+	[MigrationId] [nvarchar](150) NOT NULL,
+	[ProductVersion] [nvarchar](32) NOT NULL,
+ CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY CLUSTERED 
+(
+	[MigrationId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Movie]    Script Date: 2020-09-01 16:24:47 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Movie](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Title] [nvarchar](60) NOT NULL,
+	[ReleaseDate] [datetime2](7) NOT NULL,
+	[Genre] [nvarchar](30) NOT NULL,
+	[Price] [decimal](18, 2) NOT NULL,
+	[Rating] [nvarchar](5) NOT NULL,
+ CONSTRAINT [PK_Movie] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20200831165153_InitialCreate', N'3.1.7')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20200831225508_Rating', N'3.1.7')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20200901221750_New_DataAnnotations', N'3.1.7')
+GO
+SET IDENTITY_INSERT [dbo].[Movie] ON 
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (2, N'Pheonix Rising', CAST(N'2020-11-05T00:00:00.0000000' AS DateTime2), N'Action & Adventure', CAST(8.99 AS Decimal(18, 2)), N'R')
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (3, N'ANON', CAST(N'2018-08-31T00:00:00.0000000' AS DateTime2), N'Cerebral', CAST(1.99 AS Decimal(18, 2)), N'R')
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (4, N'John Wick', CAST(N'2016-06-28T00:00:00.0000000' AS DateTime2), N'Action & Adventure', CAST(6.99 AS Decimal(18, 2)), N'R')
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (5, N'When Harry Met Sally', CAST(N'1989-02-12T00:00:00.0000000' AS DateTime2), N'Romantic Comedy', CAST(7.99 AS Decimal(18, 2)), N'PG')
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (6, N'Ghostbusters ', CAST(N'1984-03-13T00:00:00.0000000' AS DateTime2), N'Comedy', CAST(8.99 AS Decimal(18, 2)), N'PG-13')
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (7, N'Ghostbusters 2', CAST(N'1986-02-23T00:00:00.0000000' AS DateTime2), N'Comedy', CAST(9.99 AS Decimal(18, 2)), N'PG-13')
+GO
+INSERT [dbo].[Movie] ([ID], [Title], [ReleaseDate], [Genre], [Price], [Rating]) VALUES (8, N'Rio Bravo', CAST(N'1959-04-15T00:00:00.0000000' AS DateTime2), N'Western', CAST(3.99 AS Decimal(18, 2)), N'G')
+GO
+SET IDENTITY_INSERT [dbo].[Movie] OFF
+GO
+USE [master]
+GO
+ALTER DATABASE [MovieContext] SET  READ_WRITE 
+GO

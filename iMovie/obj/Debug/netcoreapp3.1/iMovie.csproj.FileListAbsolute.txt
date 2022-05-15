@@ -1,0 +1,527 @@
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.exe
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.deps.json
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.runtimeconfig.json
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.runtimeconfig.dev.json
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.pdb
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.Views.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.Views.pdb
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csprojAssemblyReference.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\staticwebassets\iMovie.StaticWebAssets.Manifest.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\staticwebassets\iMovie.StaticWebAssets.xml
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorAssemblyInfo.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorAssemblyInfo.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.AssemblyInfoInputs.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.AssemblyInfo.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.TagHelpers.input.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.TagHelpers.output.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorCoreGenerate.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorTargetAssemblyInfo.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorTargetAssemblyInfo.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.Views.pdb
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.pdb
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.CopyComplete
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Home\About.cshtml.g.cs
+C:\Users\MigitA\source\repos\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Home\Contact.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.exe
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.deps.json
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.runtimeconfig.json
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.runtimeconfig.dev.json
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.pdb
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.Views.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.Views.pdb
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\staticwebassets\iMovie.StaticWebAssets.Manifest.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorAssemblyInfo.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorAssemblyInfo.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.AssemblyInfo.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.TagHelpers.input.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.TagHelpers.output.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorCoreGenerate.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Home\About.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Home\Contact.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorTargetAssemblyInfo.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorTargetAssemblyInfo.cs
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.Views.pdb
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.CopyComplete
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.dll
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.pdb
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\space\Web Development\App\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.genruntimeconfig.cache
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.exe
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.deps.json
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.runtimeconfig.json
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.runtimeconfig.dev.json
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.pdb
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.Views.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\iMovie.Views.pdb
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Z:\_app\mvc\iMovie\iMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.AssemblyReference.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.GeneratedMSBuildEditorConfig.editorconfig
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.AssemblyInfoInputs.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.AssemblyInfo.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.CoreCompileInputs.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.MvcApplicationPartsAssemblyInfo.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorAssemblyInfo.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorAssemblyInfo.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\staticwebassets\iMovie.StaticWebAssets.Manifest.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.TagHelpers.input.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.TagHelpers.output.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorCoreGenerate.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Home\About.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Home\Contact.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorTargetAssemblyInfo.cache
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.RazorTargetAssemblyInfo.cs
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.Views.pdb
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.csproj.CopyComplete
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.dll
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.pdb
+Z:\_app\mvc\iMovie\iMovie\obj\Debug\netcoreapp3.1\iMovie.genruntimeconfig.cache
